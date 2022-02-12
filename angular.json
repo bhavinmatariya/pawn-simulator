@@ -110,7 +110,9 @@
                 "input": "src/assets",
                 "output": "/assets"
               }
-            ]
+            ],
+            "codeCoverage": true,
+            "preserveSymlinks": true
           },
           "configurations": {
             "ci": {
